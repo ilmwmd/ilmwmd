@@ -49,3 +49,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:301060,100:09001f&height=100&section=footer" />
 
 </div>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=ilmwmd&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak Stats"
+/>
+
+</div>
