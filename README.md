@@ -65,5 +65,18 @@ Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programmi
 
 ## 🌐 Connect with Me
 
+<div align="center">   <a href="https://github.com/ilmwmd">     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">   </a>   <a href="https://www.twitch.tv/ilmwmd">     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">   </a> </div>
+
 <div align="center">
-  <a href
+
+🎯 Keep Learning. Keep Building. Keep Leveling Up.
+
+<i>Thanks for visiting my profile! Keep learning, keep building, keep playing. 🚀</i>
+
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&color=0:301060,50:5135A8,100:00CFFF&height=120&section=footer"
+ width="100%"
+ alt="Cyberpunk footer"
+/>
+
+</div>
