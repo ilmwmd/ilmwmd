@@ -1,7 +1,7 @@
  
 <!-- HEADER -->
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner gaming de ilmwmd">
+  <img src="assets/Banner.png" width="100%" alt="Banner gaming de ilmwmd">
 </div>
 # 👾 Hello, I'm ilmwmd!
 
