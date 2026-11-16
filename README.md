@@ -1,18 +1,17 @@
- 
 <!-- HEADER -->
 <div align="center">
-  <img src="assets/Banner.png" width="100%" alt="Banner gaming de ilmwmd">
-</div>
-# 👾 Hello, I'm ilmwmd!
+  <img src="assets/Banner.png" width="100%" alt="Gaming banner of ilmwmd">
 
-### 🎮 Junior Developer | Web Development | Programming
+  # 👾 Hello, I'm ilmwmd!
 
-*Learning, building and leveling up every day.*
+  ### 🎮 Junior Developer | Web Development | Programming
 
+  *Learning, building and leveling up every day.*
 </div>
 
 ---
--## 👾 About Me
+
+## 👾 About Me
 
 Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programming, and video games.
 
@@ -29,66 +28,42 @@ Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programmi
 - 🛠️ Building projects to practice and improve my skills.
 - 🧠 Exploring new tools, libraries, and technologies.
 
-
-
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-🎨 Frontend
+### 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
-⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
-🛠️ Tools & Development
+### 🛠️ Tools & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
+
 ---
 
-<div align="center">
-
-### 🎯 Keep Learning. Keep Building. Keep Leveling Up.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:301060,100:09001f&height=100&section=footer" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=ilmwmd&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak Stats"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=ilmwmd&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </div>
+
+---
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/ilmwmd">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.twitch.tv/ilmwmd">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-</div>
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:301060,50:5135A8,100:00CFFF&height=120&section=footer"
-    width="100%"
-    alt="Footer cyberpunk"
-  />
-</div>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Keep learning, keep building, keep playing. 🚀</i>
-</p>
+  <a href
