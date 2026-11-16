@@ -12,33 +12,44 @@
 </div>
 
 ---
+-## 👾 About Me
 
-## 🧑‍💻 About Me
+Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programming, and video games.
 
-- 🚀 Currently learning web development and programming.
-- 🎨 Interested in creating modern and responsive interfaces.
-- 💡 Exploring new technologies and improving my coding skills.
-- 🎮 Passionate about videogames and technology.
-- 🌱 Always learning something new.
+- 💻 Currently learning Full-Stack Development.
+- ⚛️ Exploring Frontend development with React, JavaScript, and Tailwind CSS.
+- 🐍 Learning Backend development with Python and package management using pip.
+- 🤖 Interested in exploring how artificial intelligence can improve software development.
+- 🎮 Passionate about video games and technology.
+- 🚀 My goal is to keep learning, build personal projects, and improve my development skills.
+
+### 🎯 Currently
+
+- 📚 Expanding my knowledge of React, Python, and Backend development.
+- 🛠️ Building projects to practice and improve my skills.
+- 🧠 Exploring new tools, libraries, and technologies.
+
+
 
 ---
 
-## ⚡ Technologies & Tools
+## 🧰 Tech Stack
 
-**Frontend**
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind](https://skillicons.dev/icons?i=html,css,js,react,tailwind)" /> \</p>
 
-**Programming & Tools**
+### ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+\<p>   \<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" /> \</p>
+
+### 🛠️ Tools & Development
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" /> \</p>
+
+### 🤖 AI Tools
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=chatgpt](https://skillicons.dev/icons?i=chatgpt)" /> \</p>
 
 ---
 
@@ -60,10 +71,5 @@
 </div>
 
 <div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ilmwmd&theme=discord&no-frame=true&no-bg=true&margin-w=4"
-    alt="Trofeos de GitHub"
-  />
 
 </div>
