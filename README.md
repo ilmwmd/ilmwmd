@@ -74,3 +74,7 @@ Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programmi
 <div align="center">
 
 </div>
+## 🌐 Connect with Me
+
+\<p align="center">   \<a href="[https://github.com/ilmwmd](https://github.com/ilmwmd)">     \<img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a>   \<a href="[https://www.twitch.tv/ilmwmd](https://www.twitch.tv/ilmwmd)">     \<img src="[https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)" alt="Twitch" />   \</a> \</p>
+
