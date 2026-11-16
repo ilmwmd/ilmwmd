@@ -33,24 +33,25 @@ Hi! I'm **ilmwmd**, an aspiring developer passionate about technology, programmi
 
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
-### 🎨 Frontend
+🎨 Frontend
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind](https://skillicons.dev/icons?i=html,css,js,react,tailwind)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</p>
 
-### ⚙️ Backend
+⚙️ Backend
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
 
-### 🛠️ Tools & Development
+🛠️ Tools & Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" /> \</p>
-
-### 🤖 AI Tools
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=chatgpt](https://skillicons.dev/icons?i=chatgpt)" /> \</p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 ---
 
 <div align="center">
